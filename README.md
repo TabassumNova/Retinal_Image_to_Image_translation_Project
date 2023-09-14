@@ -12,5 +12,6 @@ perform image-to-image translation between these two modalities.
 <img src="/images/result2.png"  width=50% height=50%>
 
 # References
+- https://arxiv.org/abs/1802.09655
 - https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 - https://github.com/srijarkoroy/segRetino
