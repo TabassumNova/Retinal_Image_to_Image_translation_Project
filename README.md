@@ -4,6 +4,12 @@ perform image-to-image translation between these two modalities.
 
 <img src="/images/model.png"  width=70% height=70%>
 
+# Requirements
+- torch>=0.4.0
+- torchvision>=0.2.1
+- dominate>=2.3.1
+- visdom>=0.1.8.3
+- 
 # Result after Segmentation
 For segmentator model, I used the implementation of [[3](https://github.com/srijarkoroy/segRetino)]
 
